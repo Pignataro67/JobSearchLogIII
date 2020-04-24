@@ -1,0 +1,118 @@
+.App {
+  /* background-image: url(images/app_background.jpeg); */
+  background-size: cover;
+}
+
+.App-header {
+  background-color: #222;
+  height: 150px;
+  padding: 20px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.5em;
+}
+
+.App-intro {
+  font-size: large;
+}
+
+.home-page {
+  /* background-image: url(images/pic.jpeg) no-repeat center center fixed; */
+  height: 85vh;
+  background-size: cover;
+}
+
+.main-header {
+  /* background: url(images/Job-search.jpg) center center; */
+  background-size: contain;
+}
+
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
+
+form a {
+  margin-left: 5px;
+}
+
+a {
+  margin-left: 5px;
+}
+
+.col-sm-4 {
+  margin-bottom: 18px;
+}
+  
+.card-body {
+  margin-top: 15px;
+  padding: 10px;
+  text-align: center;
+}
+  
+.card-header {
+  /* background-image: url(images/divbackground.jpg); */
+  background-size: cover;
+  text-align: center;
+  text-shadow: 1px 1px #00ccff;
+  font-size: 1.5em;
+}
+  
+.index-div {
+  margin-top: 30px
+}
+  
+.card {
+  height: 20em
+}
+  
+.form-header {
+  text-align: center;
+  text-shadow: 1px 1px #00ccff;
+  font-size: 2em;
+}
+
+.type-items button {
+  font-size: 20px;
+  padding: 10px;
+}
+
+.type-description {
+  font-size: 1em;
+  border: 5px double;
+  border-color: lightpink;
+  margin-bottom: 10px;
+}
+
+.task-item-container {
+  height: 65vh;
+}
+
+.task-item-card {
+  /* background-image: url(images/divbackground.jpg); */
+  background-size: cover;
+  color: black;
+  text-align: center;
+  margin: 50px 70px;
+  height: 60%;
+  border: 3px groove white;
+}
+
+.task-item-card a {
+  margin-left: 0;
+}
+
+#task-item-title {
+  text-decoration: underline;
+}
+
+#type-link {
+  font-size: 15px;
+}
+
+.footer {
+  text-align: right;
+  margin-right: 10px;
+}
