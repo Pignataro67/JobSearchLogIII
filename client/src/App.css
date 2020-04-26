@@ -35,7 +35,7 @@
 }
 
 form a {
-  margin-left: 10px;
+  margin-left: 5px;
 }
 
 a {
@@ -47,7 +47,7 @@ a {
 }
   
 .card-body {
-  margin-top: 20px;
+  margin-top: 15px;
   padding: 10px;
   text-align: center;
 }
@@ -65,7 +65,7 @@ a {
 }
   
 .card {
-  height: 20em
+  height: 15em
 }
   
 .form-header {
@@ -75,8 +75,8 @@ a {
 }
 
 .type-items button {
-  font-size: 25px;
-  padding: 20px;
+  font-size: 20px;
+  padding: 10px;
 }
 
 .type-description {
@@ -95,7 +95,7 @@ a {
   background-size: cover;
   color: black;
   text-align: center;
-  margin: 50px 75px;
+  margin: 50px 60px;
   height: 60%;
   border: 3px groove white;
 }
@@ -109,7 +109,7 @@ a {
 }
 
 #type-link {
-  font-size: 20px;
+  font-size: 15px;
 }
 
 .footer {
