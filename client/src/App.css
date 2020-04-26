@@ -5,8 +5,8 @@
 
 .App-header {
   background-color: #222;
-  height: 165px;
-  padding: 25px;
+  height: 150px;
+  padding: 20px;
   color: white;
 }
 
@@ -20,7 +20,7 @@
 
 .home-page {
   /* background-image: url(images/pic.jpeg) no-repeat center center fixed; */
-  height: 75vh;
+  height: 85vh;
   background-size: cover;
 }
 
@@ -56,16 +56,17 @@ a {
   /* background-image: url(images/divbackground.jpg); */
   background-size: cover;
   text-align: center;
-  text-shadow: 2px 2px #00ccff;
+  text-shadow: 1px 1px #00ccff;
   font-size: 1.5em;
 }
   
 .index-div {
-  margin-top: 30px
+  margin-top: 30px;
 }
   
 .card {
-  height: 15em
+  height: 15em;
+  background-size: cover;
 }
   
 .form-header {
@@ -87,7 +88,7 @@ a {
 }
 
 .task-item-container {
-  height: 30vh;
+  height: 65vh;
 }
 
 .task-item-card {
@@ -95,7 +96,7 @@ a {
   background-size: cover;
   color: black;
   text-align: center;
-  margin: 50px 60px;
+  margin: 50px 70px;
   height: 60%;
   border: 3px groove white;
 }
