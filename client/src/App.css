@@ -5,8 +5,8 @@
 
 .App-header {
   background-color: #222;
-  height: 150px;
-  padding: 20px;
+  height: 135px;
+  padding: 15px;
   color: white;
 }
 
@@ -20,7 +20,7 @@
 
 .home-page {
   /* background-image: url(images/pic.jpeg) no-repeat center center fixed; */
-  height: 85vh;
+  height: 65vh;
   background-size: cover;
 }
 
@@ -35,19 +35,19 @@
 }
 
 form a {
-  margin-left: 5px;
+  margin-left: 10px;
 }
 
 a {
-  margin-left: 5px;
+  margin-left: 10px;
 }
 
 .col-sm-4 {
-  margin-bottom: 20px;
+  margin-bottom: 25px;
 }
   
 .card-body {
-  margin-top: 20px;
+  margin-top: 25px;
   padding: 15px;
   text-align: center;
 }
