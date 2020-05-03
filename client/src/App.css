@@ -43,12 +43,12 @@ a {
 }
 
 .col-sm-4 {
-  margin-bottom: 25px;
+  margin-bottom: 30px;
 }
   
 .card-body {
-  margin-top: 25px;
-  padding: 15px;
+  margin-top: 30px;
+  padding: 20px;
   text-align: center;
 }
   
@@ -61,11 +61,11 @@ a {
 }
   
 .index-div {
-  margin-top: 30px;
+  margin-top: 20px;
 }
   
 .card {
-  height: 20em;
+  height: 30em;
   background-size: cover;
 }
   
@@ -94,11 +94,11 @@ a {
 .task-item-card {
   /* background-image: url(images/divbackground.jpg); */
   background-size: cover;
-  color: black;
+  color: white;
   text-align: center;
-  margin: 50px 65px;
+  margin: 45px 70px;
   height: 60%;
-  border: 3px groove white;
+  border: 3px groove black;
 }
 
 .task-item-card a {
@@ -110,10 +110,10 @@ a {
 }
 
 #type-link {
-  font-size: 25px;
+  font-size: 30px;
 }
 
 .footer {
   text-align: right;
-  margin-right: 10px;
+  margin-right: 15px;
 }
