@@ -61,7 +61,7 @@ a {
 }
   
 .index-div {
-  margin-top: 25px;
+  margin-top: 30px;
 }
   
 .card {
@@ -76,8 +76,8 @@ a {
 }
 
 .type-items button {
-  font-size: 25px;
-  padding: 15px;
+  font-size: 30px;
+  padding: 20px;
 }
 
 .type-description {
@@ -96,7 +96,7 @@ a {
   background-size: cover;
   color: black;
   text-align: center;
-  margin: 55px 75px;
+  margin: 50px 65px;
   height: 60%;
   border: 3px groove white;
 }
@@ -110,7 +110,7 @@ a {
 }
 
 #type-link {
-  font-size: 20px;
+  font-size: 25px;
 }
 
 .footer {
