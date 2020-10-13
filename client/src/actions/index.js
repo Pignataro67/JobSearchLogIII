@@ -22,6 +22,9 @@ export function fetchTasks() {
   };
 }
 
+const newBussinessesArray = businesses.map(business => loadingReviewsYelp(business)) 	
+  return newBussinessesArray
+
 export function createTask(values, callback) {
   return (dispatch) => {
     fetch(`${ROOT_URL}/tasks`, {

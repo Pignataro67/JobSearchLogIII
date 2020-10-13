@@ -1,6 +1,21 @@
-.App {
+* {
   /* background-image: url(images/app_background.jpeg); */
-  background-size: cover;
+  box-sizing: border-box;
+}
+
+.container {
+  margin: 0 auto;
+  font-family: -apple-system, BlinkMacSystemFont, "Roboto",
+    "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.NavBar {
+  display: grid;
+  justify-items: center;
+  text-align: center;
 }
 
 .App-header {
