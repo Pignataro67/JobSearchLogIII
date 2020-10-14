@@ -50,20 +50,20 @@
 }
 
 form a {
-  margin-left: 10px;
+  margin-left: 15px;
 }
 
 a {
-  margin-left: 10px;
+  margin-left: 20px;
 }
 
 .col-sm-4 {
-  margin-bottom: 30px;
+  margin-bottom: 25px;
 }
   
 .card-body {
-  margin-top: 30px;
-  padding: 20px;
+  margin-top: 35px;
+  padding: 15px;
   text-align: center;
 }
   
@@ -76,11 +76,11 @@ a {
 }
   
 .index-div {
-  margin-top: 20px;
+  margin-top: 15px;
 }
   
 .card {
-  height: 30em;
+  height: 25em;
   background-size: cover;
 }
   

@@ -10,10 +10,6 @@ import TasksShow from './containers/TasksShow';
 import HomeNavBar from './components/HomeNavBar';
 import about from './components/about';
 import footer from './components/footer';
-// import TasksShow from './containers/TasksShow';
-// import HomeNavBar from './components/HomeNavBar';
-// import About from './components/About';
-// import Footer from './components/Footer';
 
 class App extends Component {
 
