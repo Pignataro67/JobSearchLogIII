@@ -1,6 +1,5 @@
-* {
-  /* background-image: url(images/app_background.jpeg); */
-  box-sizing: border-box;
+body {
+  background-color: #edf5fc
 }
 
 .container {
